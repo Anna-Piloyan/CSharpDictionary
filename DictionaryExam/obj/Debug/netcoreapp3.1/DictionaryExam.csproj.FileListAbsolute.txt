@@ -1,0 +1,33 @@
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csprojAssemblyReference.cache
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.AssemblyInfoInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.AssemblyInfo.cs
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.exe
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.deps.json
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.runtimeconfig.json
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.runtimeconfig.dev.json
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.dll
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.pdb
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryLibrary.dll
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csproj.CopyComplete
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.dll
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.pdb
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.genruntimeconfig.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.exe
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.deps.json
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.runtimeconfig.json
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.runtimeconfig.dev.json
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.dll
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryExam.pdb
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryLibrary.dll
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\bin\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.AssemblyInfoInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.AssemblyInfo.cs
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csproj.CopyComplete
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.dll
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.pdb
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.genruntimeconfig.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.csproj.AssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryExam\obj\Debug\netcoreapp3.1\DictionaryExam.GeneratedMSBuildEditorConfig.editorconfig

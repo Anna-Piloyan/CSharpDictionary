@@ -1,0 +1,19 @@
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.AssemblyInfoInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.AssemblyInfo.cs
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.deps.json
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.dll
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.dll
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+E:\ITStep Программирование 16.12\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.csprojAssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.deps.json
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.dll
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\bin\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.AssemblyInfoInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.AssemblyInfo.cs
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.dll
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.pdb
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.csproj.AssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\HomeWorkC#\EXAM\DictionaryLibrary\obj\Debug\netcoreapp3.1\DictionaryLibrary.GeneratedMSBuildEditorConfig.editorconfig

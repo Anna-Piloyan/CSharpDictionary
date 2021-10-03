@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DictionaryExam/1.0.0": {
+        "dependencies": {
+          "DictionaryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DictionaryExam.dll": {}
+        }
+      },
+      "DictionaryLibrary/1.0.0": {
+        "runtime": {
+          "DictionaryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictionaryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
